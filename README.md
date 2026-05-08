@@ -85,7 +85,7 @@ burnout drivers and workplace wellbeing patterns.
 Project tracked across **3 Epics** and **2 Sprints** covering all deliverables 
 within a 14-day timeline.
 
-![Jira Timeline](07_Jira_Tracking/Jira_timeline.png)
+![Jira Scrumboard](07_Jira_Tracking/Jira_scrumboard.png)
 
 > *Note: Jira's free tier archives completed sprint data, so the board view reflects 
 > a mid-sprint snapshot. The Timeline and List views confirm all tasks were marked Done.*
