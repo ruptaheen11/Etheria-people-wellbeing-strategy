@@ -67,6 +67,10 @@ burnout drivers and workplace wellbeing patterns.
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard_Overview](05_PowerBI_Dashboard/dashboard_screenshots/dashboard_overview.png)
+
 ## ✅ Top Recommendations
 
 | # | Recommendation | Priority |
